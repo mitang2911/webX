@@ -1,0 +1,195 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* box-sizing: border-box; */
+}
+
+.header-logo img{
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.header-logo{
+    text-decoration: solid;
+    text-decoration: chartreuse;
+    font-size: 40px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.intro{
+    padding-left: 150px;
+    padding-top: 150px;
+    font-size: 100px;
+}
+
+.element{
+    padding-left: 550px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.con{
+    bottom: 250px;
+    text-align: right;
+    font-size: 30px;
+    padding-top: 30px;
+    margin-right: 300px;
+    position: relative;
+    font-size: 50px;
+}
+
+.inp{
+    text-align: right;
+    font-size: 30px;
+    margin-right: 250px;
+    position: relative;
+    bottom: 220px;
+    
+}
+
+.button{
+    text-align: right;
+    padding-top: 20px;
+    margin-right: 300px;
+    bottom: 200px;
+    position: relative;
+}
+
+.i1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -10;
+    height: 100%;
+    width: 50%;
+}
+.i2
+
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -10;
+    height: 100%;
+    width: 50%;
+}
+
+/*.components{
+    bottom: 200px;
+}*/
+
+.button input{
+    width: 200px;
+}
+
+.social{
+    text-align: right;
+    margin-right: 300px;
+    bottom: 200px;
+    position: relative;
+}
+
+button{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.r{
+    text-align: right;
+    margin-right: 300px;
+    bottom: 200px;
+    position: relative;
+}
+
+.r input{
+    width:200px;
+}
+
+.p{
+    position: relative;
+    bottom: 100px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.h-logo{
+    float: left;
+    text-decoration: solid;
+    text-decoration: chartreuse;
+    font-size: 40px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.contents{
+    float: left;
+    margin-left:600px;
+}
+
+.h{
+    float: left;
+    background-color: thistle;
+    height: 80px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.text{
+    float: left;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+li{
+    float: left;
+    margin-left: 60px;
+    list-style: none;
+}
+
+input{
+    border-radius: 10px;
+}
+.h-logo img{
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 5px;
+    
+}
+.main-font{
+    text-align: center;
+    font-size: 100px;
+    padding-top: 150px;
+}
+.all-items{
+    float: left;
+    width: 100%;
+    padding-top: 50px;
+}
+.items{
+    float: left;
+    width: 30%;
+}
+.items img{
+    height: 200px;
+    margin-left: 140px;
+}
+
+.items p{
+    margin-left: 100px;
+}
+
+
+.footer{
+    background-color: thistle;
+
+}
+
+.footer-logo{
+    text-align: right;
+}
